@@ -11,7 +11,7 @@ Project Goals
 
 - Learn and implement algorithms as completely as possible
 - Understand how they are implemented in C
-_ Explore more complete and formal definitions
+- Explore more complete and formal definitions
 
 Directory Structure
 -------------------
