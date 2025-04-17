@@ -18,7 +18,7 @@ built into popular programming languages such as Python and Java.[2][3] However,
 is allowed, bubble sort sorts in O(n) time, making it considerably faster than parallel implementations 
 of insertion sort or selection sort which do not parallelize as effectively.[citation needed]
 
-.. Reference: https://en.wikipedia.org/wiki/Bubble_sort
+Reference: `https://en.wikipedia.org/wiki/Bubble_sort`
 
 
 Complexity
@@ -31,7 +31,7 @@ Complexity
 Implementation
 ==============
 
-```rust
+::rust
 fn bubble_sort(arr: &mut [i32]) {
     let n = arr.len();
     if n <= 1 {
