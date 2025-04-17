@@ -16,7 +16,7 @@ Project Goals
 Directory Structure
 -------------------
 
-.. structure:: none
+.. code:: none
 
     .
     ├── backtracking
