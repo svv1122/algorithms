@@ -17,20 +17,21 @@ Directory Structure
 -------------------
 
 
+
 .
-├── backtracking
-├── divide_conquer
-├── dp
-├── graph
-├── greedy
-├── LICENSE
-├── math
-├── network
-├── README.rst
-├── recursion
-├── search
-├── sort
-│   └── bubble_sort.rst
-└── string
+|-- backtracking
+|-- divide_conquer
+|-- dp
+|-- graph
+|-- greedy
+|-- LICENSE
+|-- math
+|-- network
+|-- README.rst
+|-- recursion
+|-- search
+|-- sort
+|   `-- bubble_sort.rst
+`-- string
 
 12 directories, 3 files
