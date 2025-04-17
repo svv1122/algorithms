@@ -16,8 +16,7 @@ Project Goals
 Directory Structure
 -------------------
 
-
-
+::
 .
 |-- backtracking
 |-- divide_conquer
