@@ -16,7 +16,8 @@ Project Goals
 Directory Structure
 -------------------
 
-::
+.. code-block:: none
+
     .
     ├── backtracking
     ├── divide_conquer
