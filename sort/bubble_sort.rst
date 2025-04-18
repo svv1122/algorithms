@@ -26,6 +26,7 @@ Complexity
 
 * Time: O(n^2)
 * Space: O(1)
+* Stability: True
 
 
 Implementation
@@ -33,7 +34,7 @@ Implementation
 
 .. code:: rust
 
-    fn bubble_sort(arr: &mut [i32]) {
+    fn bubble_sort<T: Ord>(arr: &mut [T]) {
         let n = arr.len();
         if n <= 1 {
             return;
