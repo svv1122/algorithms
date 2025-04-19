@@ -32,7 +32,8 @@ Directory Structure
     ├── search
     ├── sort
     │   ├── bubble_sort.rst
+    │   ├── insertion_sort.rst
     │   └── selection_sort.rst
     └── string
 
-    12 directories, 4 files
+    12 directories, 5 files
