@@ -27,7 +27,7 @@ deterministic; some algorithms, known as randomized algorithms, incorporate rand
 
 Structure
 =========
-.. toctree::
+.. code:: none
 
         .
         ├── backtracking
