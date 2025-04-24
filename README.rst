@@ -25,6 +25,8 @@ deterministic; some algorithms, known as randomized algorithms, incorporate rand
 
 *Reference*: `https://en.wikipedia.org/wiki/Algorithm`
 
+*Note*: Implement all algorithms in **Python**
+
 Structure
 =========
 .. code:: none
