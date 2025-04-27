@@ -1,8 +1,6 @@
 ===========
 Brute Force
 ===========
-Brute Force
------------
 Brute force is a straightforward and general problem-solving technique that systematically tries all possible solutions until the correct one is found.
 
 It does not apply any clever optimizations or heuristics; instead, it relies on **exhaustive search** through all potential options.
