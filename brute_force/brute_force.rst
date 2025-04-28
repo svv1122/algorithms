@@ -32,3 +32,8 @@ Disadvantages:
 - High computational and memory cost
 
 In practice, brute force is usually replaced by more efficient algorithms once a basic solution is understood.
+
+Relative Problems
+-----------------
+- 1. Two Sum: `https://leetcode.com/problems/two-sum/`
+- 2. Add Two Numbers: `https://leetcode.com/problems/add-two-numbers/`

@@ -42,6 +42,7 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── backtracking
         │   └── backtracking.rst
         ├── binary_search
+        │   └── binary_search.rst
         ├── bitwise
         ├── brute_force
         │   └── brute_force.rst
@@ -65,4 +66,4 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── tree
         └── union_find
 
-        21 directories, 5 files
+        21 directories, 6 files

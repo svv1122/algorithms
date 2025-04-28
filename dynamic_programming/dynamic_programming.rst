@@ -55,3 +55,7 @@ Disadvantages
 -------------
 - Higher memory usage due to storage of subproblem results.
 - Requires careful problem analysis to correctly identify subproblems.
+
+Relative Problems
+-----------------
+- 5. Longest Palindromic Substring: `https://leetcode.com/problems/longest-palindromic-substring/description/`
