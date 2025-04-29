@@ -34,9 +34,7 @@ Applications:
 - Databases
 - Optimization problems
 
-A well-designed algorithm leads to more efficient and scalable software solutions.
-
-.. code:: none
+A well-designed algorithm leads to more efficient and scalable software solutions::
 
         .
         ├── backtracking

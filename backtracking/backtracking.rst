@@ -24,8 +24,7 @@ General Steps
 
 Example
 -------
-Consider solving a simple maze:
-::
+Consider solving a simple maze::
 
     def solve_maze(x, y, maze, solution):
         if (x, y) is the goal:
