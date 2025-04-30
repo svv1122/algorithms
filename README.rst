@@ -46,6 +46,7 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── brute_force
         │   └── brute_force.rst
         ├── divide_conquer
+        │   └── divide_conquer.rst
         ├── dynamic_programming
         │   └── dynamic_programming.rst
         ├── game_theory
@@ -65,4 +66,4 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── tree
         └── union_find
 
-        21 directories, 6 files
+        21 directories, 7 files
