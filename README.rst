@@ -53,17 +53,20 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── geometry
         ├── graph
         ├── greedy
+        │   └── greedy.rst
         ├── LICENSE
         ├── number_theory
         ├── prefix_interval
         ├── randomized
         ├── README.rst
         ├── simulation
+        │   └── simulation.rst
         ├── sliding_window
+        │   └── sliding_window.rst
         ├── sorting
         ├── string
         ├── techniques
         ├── tree
         └── union_find
 
-        21 directories, 7 files
+        21 directories, 10 files
