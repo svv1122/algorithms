@@ -59,6 +59,8 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── prefix_interval
         ├── randomized
         ├── README.rst
+        ├── recursive
+        │   └── recursive.rst
         ├── simulation
         │   └── simulation.rst
         ├── sliding_window
@@ -69,4 +71,4 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── tree
         └── union_find
 
-        21 directories, 10 files
+        22 directories, 11 files
