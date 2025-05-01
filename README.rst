@@ -66,9 +66,12 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── sliding_window
         │   └── sliding_window.rst
         ├── sorting
+        │   ├── bubble_sort.rst
+        │   ├── quick_sort.rst
+        │   └── selection_sort.rst
         ├── string
         ├── techniques
         ├── tree
         └── union_find
 
-        22 directories, 11 files
+        22 directories, 14 files
