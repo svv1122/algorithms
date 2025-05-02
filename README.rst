@@ -68,10 +68,11 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── sorting
         │   ├── bubble_sort.rst
         │   ├── quick_sort.rst
-        │   └── selection_sort.rst
+        │   ├── selection_sort.rst
+        │   └── shell_sort.rst
         ├── string
         ├── techniques
         ├── tree
         └── union_find
 
-        22 directories, 14 files
+        22 directories, 15 files
