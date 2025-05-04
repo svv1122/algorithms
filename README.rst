@@ -68,6 +68,7 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── sorting
         │   ├── bubble_sort.rst
         │   ├── insertion_sort.rst
+        │   ├── merge_sort.rst
         │   ├── quick_sort.rst
         │   ├── selection_sort.rst
         │   └── shell_sort.rst
@@ -76,4 +77,4 @@ A well-designed algorithm leads to more efficient and scalable software solution
         ├── tree
         └── union_find
 
-        22 directories, 16 files
+        22 directories, 17 files
